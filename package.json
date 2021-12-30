@@ -1,6 +1,6 @@
 {
-  "name": "auto-helper",
-  "version": "1.0.0",
+  "name": "auto-helper2",
+  "version": "1.0.1",
   "description": "autojs常用帮助库",
   "main": "index.js",
   "scripts": {
