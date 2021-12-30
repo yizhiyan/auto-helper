@@ -1,0 +1,19 @@
+{
+  "name": "auto-helper",
+  "version": "1.0.0",
+  "description": "autojs常用帮助库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yizhiyan/auto-helper.git"
+  },
+  "author": "yizhiyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yizhiyan/auto-helper/issues"
+  },
+  "homepage": "https://github.com/yizhiyan/auto-helper#readme"
+}
